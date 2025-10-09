@@ -10,18 +10,29 @@ It will feature a simple web interface, a backend chatbot logic, and clear docum
 
 Name & Team Role
 Cedillo -	Frontend
+
 Eusebio -	Frontend
+
 Politico -	Backend
+
 Rozul - Backend
+
 Dagdag - Documentation
+
 
 **🗂 Project Details**
 
+
 Field	                            Information
+
 Repository Name:	            tiktakboom-8
+
 Project Name:                     tiktakboom-8-project
+
 Milestone:	                    Sprint 1: Student Chatbot Setup
+
 Project Duration:	            October 8, 2025 – October 10, 2025
+
 
 **🎯 Purpose**
 
