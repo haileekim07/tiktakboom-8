@@ -88,4 +88,4 @@ Field & Description
 Goal : Build the foundation of the Student Chatbot Website.
 Start Date : October 8, 2025
 Due Date	: October 10, 2025
-Tasks Included	: Setup repository, design UI, develop logic, connect database, testing, deployment, documentation
+Tasks Included	: Setup repository, design UI, develop logic, connect database, testing, deployment, documentation.
