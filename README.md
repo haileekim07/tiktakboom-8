@@ -9,6 +9,7 @@ It will feature a simple web interface, a backend chatbot logic, and clear docum
 **👥 Team Members**
 
 Name & Team Role
+
 Cedillo -	Frontend
 
 Eusebio -	Frontend
