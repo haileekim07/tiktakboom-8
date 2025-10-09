@@ -1,71 +1,50 @@
-**🧠 Creating Student Chatbot Website**
+### Group - Tiktakboom 8 Repository
 
-📋 Overview
-
-This project, Creating Student Chatbot Website, aims to develop an interactive chatbot designed for students.
-The chatbot will assist users by answering questions about school activities, schedules, and general inquiries.
-It will feature a simple web interface, a backend chatbot logic, and clear documentation for setup and usage.
+**📋 Overview**
+This repository is created for our Project Management Lab Activity titled “Creating Student Chatbot Website.”
+The project aims to build an interactive chatbot that assists students by answering questions about school activities, schedules, and general inquiries.
+It includes a simple and responsive web interface, functional chatbot logic, and complete setup documentation.
 
 **👥 Team Members**
-
-Name & Team Role
-
-Cedillo -	Frontend
-
-Eusebio -	Frontend
-
-Politico -	Backend
-
-Rozul - Backend
-
-Dagdag - Documentation
-
+- Cedillo – Frontend
+- Eusebio – Frontend
+- Politico – Backend
+- Rozul – Backend
+- Dagdag – Documentation
 
 **🗂 Project Details**
 
-
-Field	                            Information
-
-Repository Name:	            tiktakboom-8
-
-Project Name:                     tiktakboom-8-project
-
-Milestone:	                    Sprint 1: Student Chatbot Setup
-
-Project Duration:	            October 8, 2025 – October 10, 2025
-
+Field Information
+Repository Name: tiktakboom-8
+Project Name: tiktakboom-8-project
+Milestone: Sprint 1: Student Chatbot Setup
+Project Duration: October 8, 2025 – October 10, 2025
 
 **🎯 Purpose**
-
-The main purpose of this project is to:
-
-- Create a chatbot website that helps students receive quick answers to common academic questions.
-- Develop a user-friendly interface and responsive design suitable for all devices.
-- Practice effective collaboration using GitHub tools such as Boards, Tables, and Roadmaps.
-- Demonstrate project organization through sprints, milestones, and custom fields.
+The purpose of this project is to:
+- Develop a chatbot website that provides quick and helpful responses to students’ academic-related questions.
+- Design a user-friendly and responsive web interface suitable for any device.
+- Enhance collaboration through GitHub tools such as Boards, Tables, and Roadmaps.
+- Demonstrate effective project management through the use of sprints, milestones, and custom fields.
 
 **📝 Notes**
-
-- This project demonstrates how to manage software development tasks using GitHub Project features.
-- Each member is assigned to different teams and tasks for better coordination.
-- The project uses one sprint (Sprint 1) that covers all setup, development, testing, and deployment steps.
-- Status, priority levels, and timelines are updated regularly to track progress.
+- This project highlights teamwork and GitHub Project management practices.
+- Each member has assigned roles for smooth coordination and task distribution.
+- The project consists of one sprint covering setup, development, testing, and deployment.
+- Progress updates such as task status, priority levels, and timelines are regularly maintained on the project board.
 
 **🗃️ GitHub Project Setup**
 
 🧭 Board – Planning
-
 Purpose: To visualize and track task progress.
-
 Fields:
 
-- Status – To Do, In Progress, Done
-- Assignee – Person responsible for the task
+Status (To Do, In Progress, Done)
+
+Assignee (Responsible member)
 
 📊 Table – Project Status
-
-Purpose: To view all project fields in one place for progress tracking.
-
+Purpose: To view all project details and progress in one place.
 Fields:
 - Status
 - Priority Level
@@ -78,26 +57,22 @@ Fields:
 - Assignee
 
 📋 Table – Team Assignee
-
 Purpose: To easily check each member’s assigned tasks.
-
 Fields:
 - Assignee
 - Teams
 
 🗓️ Roadmap – Project Timeline
-
-Purpose: To visualize the overall progress and deadlines.
-
+Purpose: To visualize the project’s progress and important deadlines.
 Fields:
 - Priority Level
-- Markers: Start Date and Due Date
+- Start Date and Due Date
 - Milestones
 
-**🚀 Milestone: Sprint 1 – Student Chatbot Setup**
+🚀 Milestone: Sprint 1 – Student Chatbot Setup
 
 Field & Description
-Goal : Build the foundation of the Student Chatbot Website.
-Start Date : October 8, 2025
-Due Date	: October 10, 2025
-Tasks Included	: Setup repository, design UI, develop logic, connect database, testing, deployment, documentation.
+- Goal : Build the foundation of the Student Chatbot Website.
+- Start Date : October 8, 2025
+- Due Date : October 10, 2025
+- Tasks Included : Setup repository, design UI, develop logic, connect database, testing, deployment, documentation
